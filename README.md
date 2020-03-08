@@ -13,6 +13,7 @@
 
 ## To run locally: 
 1. clone this repository `git clone https://github.com/kathleenfwang/adobe-take-home` 
+2. `cd adobe-take-home`
 3. `cd image-grid`
 2. install dependencies `npm i` 
 3. `npm start`
