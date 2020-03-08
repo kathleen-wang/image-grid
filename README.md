@@ -2,7 +2,7 @@
 
 ## Description:
 - This app can be viewed [here](http://kathleenwang-adobe-image-grid.surge.sh/). 
-- Built using React,JS,HTML/CSS
+- Built using React,Javascript,HTML/CSS
 - Deployed using Surge 
 
 ## Functionality:
