@@ -12,11 +12,10 @@
   - Also displays a "Documents Selected" count on the header which changes dynamically whenever an image is selected or deselected
 
 ## To run locally: 
-1. clone this repository `git clone https://github.com/kathleenfwang/adobe-take-home` 
-2. `cd adobe-take-home`
-3. `cd image-grid`
-2. install dependencies `npm i` 
-3. `npm start`
-4. open `localhost:3000` on your browser 
+1. clone this repository `git clone https://github.com/kathleen-wang/image-grid.git` 
+2. `cd image-grid/image-grid`
+3. install dependencies `npm i` 
+4. `npm start`
+5. app should be viewed on `localhost:3000` on your browser 
 
  
