@@ -12,10 +12,10 @@
   - Also displays a "Documents Selected" count on the header which changes dynamically whenever an image is selected or deselected
 
 ## To run locally: 
-1. clone this repository `git clone https://github.com/kathleen-wang/image-grid.git` 
-2. `cd image-grid/image-grid`
-3. install dependencies `npm i` 
-4. `npm start`
-5. app should be viewed on `localhost:3000` on your browser 
+1. Clone this repository `git clone https://github.com/kathleen-wang/image-grid.git` 
+2. Change directory to the project folder: `cd image-grid/image-grid`
+3. Install dependencies: `npm i` 
+4. Start the application: `npm start`
+5. App should be viewed on `localhost:3000` on your browser 
 
  
