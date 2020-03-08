@@ -6,6 +6,7 @@
 - Deployed using Surge 
 
 ## Functionality:
+  - Displays all images retreived from an image JSON file 
   - Allows users to select certain images and deselect images. 
   - Features a "Delete" button which deletes all selected images
   - Features a "Cancel" button which deselects all selected images
