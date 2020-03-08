@@ -1,0 +1,96 @@
+body {
+  background-color:#191919;
+  color:whitesmoke;
+}
+.App {
+  
+  margin: 0px 20px;
+ 
+}
+
+.header {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  justify-items:center;
+  background-color: #197AEE;
+  width:100%;
+  border-radius:10px;
+  color:white;
+ 
+}
+.header button {
+  width:10%;
+}
+ .container {
+   margin:2%;
+ }
+ .imgGrid {
+ 
+  margin-top:2%;
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+   grid-gap:70px 20px;
+   align-items: center;
+ }
+
+ .imgGrid img {
+   width:95%;
+ 
+   padding:10px;
+   border-radius:10px;
+   object-fit: contain;
+ }
+ .imgDiv, .selected,.notSelected {
+   text-align:center;
+   padding:45px 30px;
+   background-color:#232323;
+   height:200px;
+   border-radius:10px;
+ }
+ .card {
+   padding:5px;
+ }
+ .imgDiv:hover {
+   border:2px solid lightgrey;
+ }
+
+.selected {
+  border:2px solid #205DA4;
+  background-color: #232323;
+}
+ 
+.notSelected { 
+  border:none;
+ 
+}
+
+.selected:hover{
+  border:2px solid lightgrey;
+}
+.notSelected:hover{
+  border:2px solid lightgrey;
+}
+button {
+  color:white;
+  background:none;
+  border:none;
+  font-size:18px;
+}
+
+.delete {
+  padding:5px;
+  margin-right:5%;
+  text-align:right;
+}
+.delete button {
+  margin-top:10px;
+  
+  color: #197AEE;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+
