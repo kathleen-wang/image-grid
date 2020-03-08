@@ -1,4 +1,4 @@
-# Image Grid - Adobe Take Home Assignment 
+# Image Grid  
 
 ## Description:
 - This app can be viewed [here](http://kathleenwang-adobe-image-grid.surge.sh/). 
