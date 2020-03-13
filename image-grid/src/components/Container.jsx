@@ -47,8 +47,6 @@ export default class Container extends Component {
     let className = e.currentTarget.className
     const { selected, selectedCardIds } = this.state
 
-    const current = e.currentTarget.parentElement.id
-
     if (className !== "selected") {
       e.currentTarget.className = "selected"
 
